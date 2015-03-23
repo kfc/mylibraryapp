@@ -1,0 +1,6 @@
+[submodule "polymer-sample"]
+	path = polymer-sample
+	url = git@github.com:kfc/polymer-sample.git
+[submodule "uql-dropdown"]
+	path = uql-dropdown
+	url = git@github.com:kfc/uql-dropdown.git
